@@ -98,4 +98,4 @@ client.on("message", message => {
 
 yeah = os.environ["BOT_TOKEN"]
 
-client.login(yeah); 
+client.login("Njc2Mjc3NDEzMDA4NjM3OTUy.XkQJ-A.GZbbdFgsGhDHzUQDhl-kkOhKA6I"); 
