@@ -96,5 +96,6 @@ client.on("message", message => {
   
 });
 
- 
-client.login("Njc2Mjc3NDEzMDA4NjM3OTUy.XkF1rQ.VKZDMo3JWZkkYcWnOvm_5dlvfUs"); 
+yeah = os.environ["BOT_TOKEN"]
+
+client.login(yeah); 
